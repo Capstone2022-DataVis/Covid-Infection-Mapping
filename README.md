@@ -16,7 +16,7 @@ use “use cases” to describe
 Average Person -> Planning trips around the country, deciding if it’s safe to go into the office, etc. 
 Medical Personal -> Using this visualization in a research project, instructing the public on pandemic safety, helping determine appropriate government/hospital regulations for the area (ex: comparing different areas of the US to determine the most effective regulations).
 Government Official -> Understanding the numbers coming from Medical Personal, determining local policy, instructing the public on safety, etc. 
-
+ 
 Technologies required for project:
 mobile, web, desktop, other?
 Web 
